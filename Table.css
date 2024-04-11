@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(171, 223, 205);
+}
+
+.box{
+    height: 420px;
+    width: 300px;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-top: 100px;
+    border-radius : 10px;
+    padding-top: 60px;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    border: transparent;
+    border-radius: 15px;
+    background-color: rgb(219, 207, 207);
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#rr{
+    color: blue;
+}
+
+.display{
+    width: 240px;
+    height: 50px;
+    border: 2px;
+   border-style: solid;
+   border-radius: 10px;
+}
+
+:placeholder-shown{
+    text-align: right;
+}
